@@ -9,9 +9,9 @@ Here's some things I made that you might like:
 
 - **[Mentora](https://github.com/Umbra-Domini/Mentora)** — AI tutoring assistant
 - **[MegaCalc](https://github.com/Umbra-Domini/MegaCalc)** — PreCalc 12 terminal toolkit
-- **[SkribblPro](https://github.com/Umbra-Domini/SkribblPro)** — skribbl.io word guesser
-- **[BitShell](https://github.com/Umbra-Domini/BitShell)** — binary/hex/decimal converter extension
-- **[CineLookup](https://github.com/Umbra-Domini/CineLookup)** — right-click movie search extension
+- **[SkribblPro](https://github.com/Umbra-Domini/SkribblPro)** — Skribbl.io word guesser
+- **[BitShell](https://github.com/Umbra-Domini/BitShell)** — Binary/hex/decimal converter extension
+- **[CineLookup](https://github.com/Umbra-Domini/CineLookup)** — Right-click movie search extension
 
 ---
 
