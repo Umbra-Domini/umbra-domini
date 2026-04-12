@@ -12,7 +12,7 @@ Here's some things I made that you might like:
 - **[SkribblPro](https://github.com/Umbra-Domini/SkribblPro)** — Skribbl.io word guesser
 - **[BitShell](https://github.com/Umbra-Domini/BitShell)** — Binary/hex/decimal converter extension
 - **[CineLookup](https://github.com/Umbra-Domini/CineLookup)** — Right-click movie search extension
-
+- **[Pico-Flash-GUI](https://github.com/Umbra-Domini/pico-flash-gui)** — A GUI for pico-ducky automatic flashing
 ---
 
 `JavaScript` `Python` `Node.js` `Express` `Firebase` `Google Cloud`  
