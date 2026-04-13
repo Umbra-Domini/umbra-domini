@@ -20,6 +20,6 @@ Here's some things I made that you might like:
 
 ---
 
-📬 [manraaj05@gmail.com](mailto:manraaj05@gmail.com) &nbsp;·&nbsp;  [Online portfolio](https://umbradomini.netlify.app/)
+📬 [manraaj05@gmail.com](mailto:manraaj05@gmail.com) &nbsp;·&nbsp;  [Portfolio](https://umbradomini.netlify.app/)
 
 *Always building something.*
