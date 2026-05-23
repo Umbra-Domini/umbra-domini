@@ -12,7 +12,7 @@ Here's some things I made that you might like:
 - **[BitShell](https://github.com/Umbra-Domini/BitShell)** — Binary/hex/decimal converter extension
 - **[CineLookup](https://github.com/Umbra-Domini/CineLookup)** — Right-click movie search extension
 - **[Pico-Flash-GUI](https://github.com/Umbra-Domini/pico-flash-gui)** — A GUI for pico-ducky automatic flashing
-- **[PixelPull](https://github.com/Umbra-Domini/PixelPull)** — Hover over any image and grab its URL, copy it, or download it - bypasses right-click restrictions
+- **[PixelPull](https://github.com/Umbra-Domini/PixelPull)** — Hover over any image and grab its URL, copy it, or download it - bypasses right-click restrictions (Works on paid Canva Graphics)
 
 ---
 
